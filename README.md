@@ -69,7 +69,7 @@ The notebook includes visualizations of training accuracy, validation accuracy, 
 
 1. Clone this repository:
 
-   `git clone https://github.com/YOUR_USERNAME/Handwritten-Digit-Classification.git`
+   `git clone https://github.com/aditya-0801/Handwritten-Digit-Classification.git`
 
 2. Open the project folder.
 
